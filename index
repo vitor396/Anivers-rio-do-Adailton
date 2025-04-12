@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>|Aniversário do Adailton</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Feliz aniversário pai!</h1>
+    	<h2>Pai hoje é o seu dia, tenho que agradecer a Deus por ter o senhor como pai,
+	sempre quando preciso o senhor me ajuda, obrigado por todos esses momentos,
+	hoje me espelho no senhor, quero ser um marido e pai igual ao senhor,
+	obrigado por todos esses momentos.</h2>
+	<br />
+	<br />
+	<br />
+	<h3> Salmos 103:13 "Como um pai tem compaixão de seus filhos, assim o Senhor tem compaixão dos que o temem". </h3>
+	<br />
+	<br />
+	<br />
+	<img src="imagens/pai.jpg" alt="papai" class="img" />
+	<img src="imagens/pai1.jpg" alt="papai" class="img" />
+	<img src="imagens/pai4.jpg" alt="papai" class="img" />
+	<img src="imagens/pai3.jpg" alt="papai" class="img" />
+
+    </body>
+    </html>
